@@ -1,0 +1,10 @@
+print("#/backup.js");
+print("<--------------------------------------------------<");
+print("$.uriview="+$.uriview);
+print("$.uridoor="+$.uridoor);
+print("$.uripath="+$.uripath);
+print("$.srcroot="+$.srcroot);
+print("$.srcbase="+$.srcbase);
+print("$.srcpath="+$.srcpath);
+print("$.srcview="+$.srcview);
+print(">-------------------------------------------------->");
